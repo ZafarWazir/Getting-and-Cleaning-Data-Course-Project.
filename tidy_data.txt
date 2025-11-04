@@ -1,0 +1,5 @@
+subject activity tBodyAcc-mean()-X tBodyAcc-mean()-Y tBodyAcc-mean()-Z
+1 WALKING 0.277 0.018 0.111
+1 WALKING_UPSTAIRS 0.255 -0.023 0.097
+2 WALKING 0.289 -0.009 0.111
+2 SITTING 0.261 -0.019 0.102
